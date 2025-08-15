@@ -1,0 +1,20 @@
+{
+  "active": false,
+  "connections": {},
+  "createdAt": "2025-08-15T08:03:27.722Z",
+  "id": "RDznYTW9BtiDQisw",
+  "isArchived": false,
+  "meta": {
+    "templateId": "1534",
+    "templateCredsSetupCompleted": true
+  },
+  "name": "Back Up Your n8n Workflows To Github",
+  "nodes": [],
+  "pinData": {},
+  "settings": {},
+  "staticData": null,
+  "tags": [],
+  "triggerCount": 0,
+  "updatedAt": "2025-08-15T08:26:16.000Z",
+  "versionId": "14fd1f38-0606-4c02-a5be-20d8d78a252f"
+}
