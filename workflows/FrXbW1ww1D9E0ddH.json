@@ -233,7 +233,7 @@
   "meta": {
     "templateCredsSetupCompleted": true
   },
-  "name": "Backup N8N Workflow",
+  "name": "Backup N8N Workflow Github",
   "nodes": [
     {
       "parameters": {},
@@ -731,6 +731,6 @@
   "staticData": null,
   "tags": [],
   "triggerCount": 0,
-  "updatedAt": "2025-08-15T09:11:20.000Z",
-  "versionId": "c75fdfe3-a7ea-4dd4-b89f-7ab87384c1ad"
+  "updatedAt": "2025-08-15T09:35:12.000Z",
+  "versionId": "a1717939-14b5-4837-8d25-d3fea82cef4b"
 }
